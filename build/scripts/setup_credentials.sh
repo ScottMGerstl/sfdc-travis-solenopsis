@@ -15,7 +15,7 @@ solenopsis.env.MASTER=local
 solenopsis.env.DEPENDENT=$SOL_SANDBOXNAME
 solenopsis.env.local.HOME=$SRC_DIR
 
-sf.version = 37.0
+sf.version = 41.0
 
 sf.antFile=$TRAVIS_BUILD_DIR/build/ant/ant-salesforce-v41.jar
 EOF
