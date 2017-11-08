@@ -1,0 +1,22 @@
+{
+    "projectName": "travis-test",
+    "username": "sgerstl@bhtp.com.travis",
+    "id": "7a5293d0-c41c-11e7-9f27-e7e08039baaf",
+    "namespace": "",
+    "orgType": "developer",
+    "loginUrl": "https://login.salesforce.com/",
+    "instanceUrl": "https://na73.salesforce.com",
+    "workspace": "C:\\Development\\mavensmate",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "AssignmentRules",
+        "CustomObject",
+        "Group",
+        "Queue",
+        "StaticResource",
+        "Workflow"
+    ]
+}
