@@ -1,0 +1,10 @@
+language: python
+python: "2.7"
+sudo: false
+branches:
+  only:
+    - master
+before_install:
+    - chmod a+x build/scripts/*
+before_script: ./build/scripts/setup_credentials.sh
+script: ./build/scripts/deploy.sh
